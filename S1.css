@@ -1,0 +1,23 @@
+body {
+    padding-left: 0px;
+}
+
+table {
+	border: solid;
+    border-color:  black;
+    width: 100%;
+    text-align: left;
+    border-spacing: 1;
+}
+
+th {
+	font-weight: bold;
+    color: black;
+}
+
+td, th {
+    padding: 5px;
+    border: solid;
+    border-color:  black;
+    border-spacing: 1;
+}
